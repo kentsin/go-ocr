@@ -1,0 +1,2 @@
+# go-ocr
+learning go
